@@ -1,0 +1,28 @@
+.login-div{
+  width: 400px !important;
+  height: 500px;
+  background-color: #AE6F9D;
+  margin-top: 100px;
+  padding: 30px 10px;
+}
+.login{
+  background-color: black;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2, p{
+  color: white;
+}
+label{
+  color: white;
+}
+.register-p{
+  color: white;
+  text-decoration: none;
+}

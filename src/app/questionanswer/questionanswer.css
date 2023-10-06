@@ -1,0 +1,29 @@
+.add{
+    /* margin-left: 36%; */
+    margin-top: 20px;
+    padding: 5px 20px;
+    border: none;
+    /* transform: translate(0px,20px); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qus-ans{
+    background-color: rgb(237, 244, 247);
+    border-radius: 20px;
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    padding: 30px 0px;
+
+}
+.show-hide{
+    margin-left: 33%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.question{
+    font-family: Times, "Times New Roman", Georgia, serif;
+}

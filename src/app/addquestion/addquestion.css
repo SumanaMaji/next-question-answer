@@ -1,0 +1,17 @@
+.question-form{
+    margin-top: 200px;
+    background-color: #e8e8e8;
+    padding: 10px;
+}
+.add-button{
+    padding: 10px 30px;
+    width: 200px;
+    border: none;
+    background-color: teal;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+.add-word{
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
